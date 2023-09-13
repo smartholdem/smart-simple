@@ -2,6 +2,7 @@
   "dependencies": {
     "@smartholdem/client": "^2.0.0",
     "@smartholdem/crypto": "^3.8.1",
+    "axios": "^1.5.0",
     "vue": "^3.3.4",
     "vue-router": "^4.2.4"
   },
