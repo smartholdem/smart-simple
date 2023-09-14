@@ -39,7 +39,7 @@
     "webext-bridge": "^6.0.1"
   },
   "displayName": "Smart Simple Wallet",
-  "name": "vite-vue3-chrome-extension-v3",
+  "name": "smartholdem-blockchain-wallet-extension",
   "overrides": {
     "@crxjs/vite-plugin": "$@crxjs/vite-plugin"
   },
