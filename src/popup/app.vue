@@ -1,9 +1,5 @@
-<script setup lang="ts"></script>
-
 <template>
-  <div class="logo w-full">
-    <img class="text-center ml-auto mr-auto" src="/sth.svg"/>
-  </div>
+
   <!--
   <header
     aria-label="Site Header"
@@ -26,5 +22,15 @@
   </footer>
   -->
 </template>
+
+<script>
+
+export default {
+  name: 'App',
+
+}
+</script>
+
+
 
 <style scoped></style>
