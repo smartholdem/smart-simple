@@ -1,5 +1,9 @@
 <template>
-  <div class="text-center m-4">
+  <div class="text-center m-1">
+    <div class="logo w-full mb-3">
+      <img height="32px" class="text-center ml-auto mr-auto" src="/sth.svg"/>
+    </div>
+
     <h2 class="text-3xl font-bold pb-0">С возвращением!</h2>
     <p>Децентрализованная сеть ждет вас</p>
 
