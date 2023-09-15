@@ -25,6 +25,12 @@ export default defineManifest(async (env) => ({
   background: {
     service_worker: 'src/background/index.ts',
   },
+  icons: {
+    "16": "logo16.png",
+    "32": "logo32.png",
+    "48": "logo48.png",
+    "128": "logo128.png"
+  },
   content_scripts: [
       //{
       //all_frames: false,
